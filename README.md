@@ -1,1 +1,1 @@
- Projet de la création de tableau périodique des éléments chimiques en  HTML/CSS Grid.
+ TP de la création de tableau périodique des éléments chimiques en utilisant HTML/CSS Grid.
